@@ -4,18 +4,18 @@
 **hebrotem/hebrotem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+-->
+- 🔭 I’m currently building computer vision model for visual tracking with specific application in Agriculture 
+- 🌱 I’m currently learning how to create multimodal data
+- 👯 I’m looking to collaborate on RL in Agriculture
+- 🤔 I’m looking for help with RL for autonomous navigation
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: Te-mee-tor-pe
+- ⚡ Fun fact: I love exploration
 
 
+<!--
 <p align="left">
 I am Temitope Ibrahim Amosa (NG, currently in the US). Hebrotem is my most common username on most sites, including GitHub (slight variations may be necessary to fit the site's username needs).
 </p>
@@ -77,3 +77,5 @@ Bland food
 </td>
 </tr>
 </table>
+
+-->
