@@ -5,15 +5,16 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently building computer vision model for visual tracking with specific application in Agriculture 
-- 🌱 I’m currently learning how to create multimodal data
-- 👯 I’m looking to collaborate on RL in Agriculture
-- 🤔 I’m looking for help with RL for autonomous navigation
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: Te-mee-tor-pe
-- ⚡ Fun fact: I love exploration
 
+- 🎓 I’m a second-year PhD student at Purdue University in Agricultural and Biological Engineering (ABE).  
+- 🔭 My research focuses on agricultural robotics, human-robot collaboration, and autonomous navigation in unstructured environments.  
+- 🌱 I’m exploring multimodal perception for real-time decision-making in robotic systems.  
+- 👯 I’m looking to collaborate on reinforcement learning (RL) for robotic navigation and precision agriculture.  
+- 🤔 I’m seeking insights into visual and LiDAR odometry for robust robot localization.  
+- 💬 Ask me about robotics, AI for agriculture, and human-AI interaction.  
+- 📫 How to reach me: ...  
+- 😄 Pronouns: Te-mee-tor-pe  
+- ⚡ Fun fact: I love exploring how robots and humans can work together seamlessly.  
 
 <!--
 <p align="left">
@@ -45,34 +46,34 @@ Swimming
 <tr valign="top">
 <td>
 
-Working from computers at several locations<br>
-as part of a uniform workflow.
+Working on robotics and AI for real-world applications.<br>
+Building solutions that bridge the gap between technology and agriculture.
 
 </td>
 <td>
 
 Global Variables<br>
 Undocumented Code<br>
-Absence of version control
+Lack of reproducibility in experiments
 
 </td>
 </tr>
 <tr>
     <th>Latest Excitements</th>
-    <th>Threats</th>
+    <th>Challenges</th>
 </tr>
 <tr valign="top">
 <td>
 
-Metaprogramming.<br>
-My relationship with ChatGPT4.<br>
-➡️ Like Joaquin Phoenix and his AI, but productive.
+Human-Robot Collaboration in Agriculture.<br>
+Deep Learning for Sensor Fusion.<br>
+Exploring the intersection of AI, robotics, and sustainability.
 
 </td>
 <td>
 
-Metaprogramming.<br>
-Bland food
+Navigating real-world agricultural terrains.<br>
+Ensuring robot adaptability in dynamic environments.
 
 </td>
 </tr>
