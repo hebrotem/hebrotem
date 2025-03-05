@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on reinforcement learning (RL) for robotic navigation and precision agriculture.  
 - 🤔 I’m seeking insights into visual and LiDAR odometry for robust robot localization.  
 - 💬 Ask me about robotics, AI for agriculture, and human-AI interaction.  
-- 📫 How to reach me: amosatemitopeibrahim@gmail.con  
+- 📫 How to reach me: (mailto:amosatemitopeibrahim@gmail..com) 
 - 😄 Pronouns: Te-mee-tor-pe  
 - ⚡ Fun fact: I love exploring how robots and humans can work together seamlessly.  
 
